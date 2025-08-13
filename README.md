@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Miguel Bernardino Sousa Borges da Silva]
+# 👋 Olá! Eu sou Miguel Bernardino Sousa Borges da Silva
 
 Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, estudos e contribuições em código aberto.
 
